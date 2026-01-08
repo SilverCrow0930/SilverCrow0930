@@ -13,30 +13,6 @@
 
 <br>
 
-## About Me
-
-<div>
-<div style="float: left; width: 65%;">
-
-I'm a 21 year old dumbass coming from my mom's belly
-
-**Hobbies:**
-- Making music
-- Hockey
-- Boxing
-- Building out all of my ideas before dying
-
-</div>
-<div style="float: right; width: 30%; text-align: center;">
-
-<img src="shinchan3.gif" width="200" />
-
-</div>
-<div style="clear: both;"></div>
-</div>
-
-<br>
-
 ## Projects
 
 <table>
@@ -78,10 +54,6 @@ A document-editing workspace that feels like an IDE, deeply integrated with AI c
 
 </div>
 
-</div>
-
-<div align="center">
-<img src="shinchan4.gif" width="150" />
 </div>
 
 </td>
@@ -129,10 +101,6 @@ An AI-powered web-based video editor that transforms long-form content into enga
 
 </div>
 
-</div>
-
-<div align="center">
-<img src="shinchan5.gif" width="150" />
 </div>
 
 </td>
@@ -208,10 +176,6 @@ A modern web application that helps users read faster and more efficiently by co
 
 </div>
 
-</div>
-
-<div align="center">
-<img src="shinchan6.gif" width="150" />
 </div>
 
 </td>
