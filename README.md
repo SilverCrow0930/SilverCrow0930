@@ -26,7 +26,7 @@
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
-### 1. Lemona
+###1. Lemona
 
 A document-editing workspace that feels like an IDE, deeply integrated with AI capabilities. Write, edit, and think with the power of AI assistance seamlessly woven into your workflow.
 
@@ -149,7 +149,7 @@ A comprehensive AI platform featuring interactive chat assistants, image generat
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
-### 3. Read Fast
+### 4. Read Fast
 
 A modern web application that helps users read faster and more efficiently by converting text into bionic reading format. The app highlights key parts of words to guide the reader's eyes, making reading quicker and more focused.
 
