@@ -170,6 +170,5 @@ A modern web application that helps users read faster and more efficiently by co
 <div align="center">
 
 **Interests**  
-Local-first software · AI + productivity tools · Developer experience & UX
-
+Fuck My Life, Time to Work Harder lol
 </div>
