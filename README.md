@@ -15,7 +15,7 @@ Currently working on local-first AI tools and desktop applications.
 
 A document-editing workspace that feels like an IDE, deeply integrated with AI capabilities. Write, edit, and think with the power of AI assistance seamlessly woven into your workflow.
 
-**Stack:** React · TypeScript · Vite · TipTap · Material-UI · Node.js · Express · Electron · Google Gemini API · File-based JSON storage
+**Stack:** React · TypeScript · Vite · TipTap · Material-UI · Node.js · Express · Electron · File-based JSON storage
 
 ---
 
