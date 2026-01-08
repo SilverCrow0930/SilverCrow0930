@@ -25,8 +25,12 @@
 
 A document-editing workspace that feels like an IDE, deeply integrated with AI capabilities. Write, edit, and think with the power of AI assistance seamlessly woven into your workflow.
 
+<<<<<<< HEAD
 **Frontend**
 <div align="left">
+=======
+**Stack:** React · TypeScript · Vite · TipTap · Material-UI · Node.js · Express · Electron · File-based JSON storage
+>>>>>>> c42e499e5814bf20f0f39e5f1f074ea315e32b57
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
