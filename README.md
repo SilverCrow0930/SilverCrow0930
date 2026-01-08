@@ -12,11 +12,13 @@ _____| _____| _|  _| \___/  _| \_| _/    _\
 
 <br>
 
-## Works
+## Projects
 
 <table>
 <tr>
-<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
+<td width="50%" valign="top">
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
 ### Lemona
 
@@ -51,8 +53,12 @@ A document-editing workspace that feels like an IDE, deeply integrated with AI c
 
 </div>
 
+</div>
+
 </td>
-<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
+<td width="50%" valign="top">
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
 ### OneCut
 
@@ -94,10 +100,14 @@ An AI-powered web-based video editor that transforms long-form content into enga
 
 </div>
 
+</div>
+
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
+<td width="50%" valign="top">
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
 ### Oniooo.com
 
@@ -126,8 +136,12 @@ A comprehensive AI platform featuring interactive chat assistants, image generat
 
 </div>
 
+</div>
+
 </td>
-<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
+<td width="50%" valign="top">
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
 ### Read Fast
 
@@ -161,6 +175,8 @@ A modern web application that helps users read faster and more efficiently by co
 
 </div>
 
+</div>
+
 </td>
 </tr>
 </table>
@@ -168,7 +184,6 @@ A modern web application that helps users read faster and more efficiently by co
 <br>
 
 <div align="center">
-
-**Interests**  
-Fuck My Life, Time to Work Harder lol
+  
+😂 Fuck My Life, Time to Work Harder LMAO 😂
 </div>
