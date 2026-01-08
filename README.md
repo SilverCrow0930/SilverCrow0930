@@ -36,25 +36,15 @@ A document-editing workspace that feels like an IDE, deeply integrated with AI c
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TipTap](https://img.shields.io/badge/TipTap-000000?style=flat-square&logo=tiptap&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 
 </div>
 
-**Backend**
-<div align="left">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
 </div>
 
-**Desktop & AI**
+**Desktop**
 <div align="left">
 
 ![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![JSON](https://img.shields.io/badge/Storage-JSON-000000?style=flat-square)
 
 </div>
