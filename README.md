@@ -11,9 +11,14 @@
 
 </div>
 
+<div align="center">
+  
+😂 Fuck My Life, Time to Work Harder 😂
+</div>
+
 <br>
 
-## Projects
+## Work
 
 <table>
 <tr>
@@ -183,8 +188,3 @@ A modern web application that helps users read faster and more efficiently by co
 </table>
 
 <br>
-
-<div align="center">
-  
-😂 Fuck My Life, Time to Work Harder 😂
-</div>
