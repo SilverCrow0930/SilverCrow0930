@@ -13,7 +13,7 @@
 
 <div align="center">
   
-😂 Fuck My Life, Time to Work Harder 😂
+😂 Fuck My Life, Time to Work 😂
 </div>
 
 <br>
