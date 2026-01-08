@@ -8,10 +8,10 @@
 I'm a 21 year old dumbass coming from my mom's belly
 
 **Hobbies:**
+- Building my ideas before I die
 - Making music
 - Hockey
 - Boxing
-- Building my ideas before I die
 
 </td>
 <td width="30%" valign="top" align="center">
