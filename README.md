@@ -58,7 +58,7 @@ A document-editing workspace that feels like an IDE, deeply integrated with AI c
 
 ### 2. OneCut
 
-An AI-powered web-based video editor that transforms long-form content into engaging highlights. Built for professionals, educators, and content creators who need to quickly turn hours of footage into shareable videos without the complexity of traditional editing software.
+An AI-native web-based video editor. Built for content creators who need to quickly turn hours of footage into shareable videos without the complexity of traditional editing software.
 
 **Frontend**
 <div align="left">
