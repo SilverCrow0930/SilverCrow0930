@@ -26,7 +26,7 @@
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
-### Lemona
+### 1. Lemona
 
 A document-editing workspace that feels like an IDE, deeply integrated with AI capabilities. Write, edit, and think with the power of AI assistance seamlessly woven into your workflow.
 
@@ -66,7 +66,7 @@ A document-editing workspace that feels like an IDE, deeply integrated with AI c
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
-### OneCut
+### 2. OneCut
 
 An AI-powered web-based video editor that transforms long-form content into engaging highlights. Built for professionals, educators, and content creators who need to quickly turn hours of footage into shareable videos without the complexity of traditional editing software.
 
@@ -115,7 +115,7 @@ An AI-powered web-based video editor that transforms long-form content into enga
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
-### Oniooo.com
+### 3. Oniooo.com
 
 A comprehensive AI platform featuring interactive chat assistants, image generation, video creation, and music composition. Real-time WebSocket communication powers instant responses, while integrated payment systems enable seamless access to AI capabilities.
 
@@ -149,7 +149,7 @@ A comprehensive AI platform featuring interactive chat assistants, image generat
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 8px; border: 1px solid #e1e4e8;">
 
-### Read Fast
+### 3. Read Fast
 
 A modern web application that helps users read faster and more efficiently by converting text into bionic reading format. The app highlights key parts of words to guide the reader's eyes, making reading quicker and more focused.
 
