@@ -11,7 +11,7 @@ I'm a 21 year old dumbass coming from my mom's belly
 - Making music
 - Hockey
 - Boxing
-- Building out all of my ideas before dying
+- Building my ideas before I die
 
 </td>
 <td width="30%" valign="top" align="center">
