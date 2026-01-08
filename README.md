@@ -1,40 +1,25 @@
-<div align="center">
-
-```
-██╗   ██╗██╗███╗   ██╗███████╗ █████╗ ███╗   ██╗
-╚██╗ ██╔╝██║████╗  ██║██╔════╝██╔══██╗████╗  ██║
- ╚████╔╝ ██║██╔██╗ ██║█████╗  ███████║██╔██╗ ██║
-  ╚██╔╝  ██║██║╚██╗██║██╔══╝  ██╔══██║██║╚██╗██║
-   ██║   ██║██║ ╚████║███████╗██║  ██║██║ ╚████║
-   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-</div>
-
 <br>
 
 ## About Me
 
-<table>
 <tr>
 <td width="70%" valign="top">
 
-I'm a 21 year old Dumbass coming from my mom's belly
+I'm a 21 year old dumbass coming from my mom's belly
 
 **Hobbies:**
 - Making music
 - Hockey
 - Boxing
-- Building my list of ideas one by one before time runs out
+- Building out all of my ideas before dying
 
 </td>
 <td width="30%" valign="top" align="center">
 
-<img src="shin-chan-spins.gif" width="200" />
+<img src="shin-chan-spins.gif" width="300" />
 
 </td>
 </tr>
-</table>
 
 <br>
 
