@@ -16,7 +16,7 @@ _____| _____| _|  _| \___/  _| \_| _/    _\
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
 
 ### Lemona
 
@@ -52,7 +52,7 @@ A document-editing workspace that feels like an IDE, deeply integrated with AI c
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
 
 ### OneCut
 
@@ -97,7 +97,7 @@ An AI-powered web-based video editor that transforms long-form content into enga
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
 
 ### Oniooo.com
 
@@ -127,7 +127,7 @@ A comprehensive AI platform featuring interactive chat assistants, image generat
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="background-color: #f6f8fa; padding: 20px; border-radius: 8px;">
 
 ### Read Fast
 
