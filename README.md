@@ -13,7 +13,7 @@
 
 <br>
 
-## Opus
+## Opuses
 
 <table>
 <tr>
